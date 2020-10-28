@@ -1,0 +1,18 @@
+{
+	"name": "Twitter Clone",
+	"require": {
+		"php": ">= 7.0"
+	},
+	"authors": [
+		{
+			"name": "Diógenes Virgilio",
+			"email": "diogenesvirgilio@ymail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"MF\\": "vendor/MF/"
+		}
+	}
+}
